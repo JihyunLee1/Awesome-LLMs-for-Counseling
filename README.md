@@ -2,8 +2,8 @@
 *A curated list of papers, datasets, benchmarks, and resources on Large Language Models for counseling, psychotherapy, and mental health support.*
 
 ![Awesome](https://awesome.re/badge.svg)
-![GitHub stars](https://img.shields.io/github/stars/jihyunlee/Awesome-LLMs-for-Counseling?style=social)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jihyunlee.Awesome-LLMs-for-Counseling)
+![GitHub stars](https://img.shields.io/github/stars/JihyunLee1/Awesome-LLMs-for-Counseling?style=social)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JihyunLee1.Awesome-LLMs-for-Counseling)
 
 ---
 
@@ -19,28 +19,28 @@ This list focuses on **research-oriented** and **evaluation-driven** work on:
 
 ---
 
-### 📊 Datasets
+### 📊 Datasets 
 
 Human-Annotated Datasets
-- 
+- This is something
 
 LLM-Synthesized Datasets
-- 
+- This is something
 ---
 
-### 📄 Models
-
+### 📄 Models 
+- This is something
 
 
 ---
 
 ### 📏 Benchmarks & Evaluation
-
+- This is something
 
 
 ---
 
-### 🤝 Contributing
+### 🤝 Contributing 
 
 Contributions are very welcome!
 
