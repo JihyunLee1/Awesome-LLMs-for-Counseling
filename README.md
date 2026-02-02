@@ -19,79 +19,28 @@ This list focuses on **research-oriented** and **evaluation-driven** work on:
 
 ---
 
-## 🧭 Table of Contents
+### 📊 Datasets
 
-- [Datasets](#datasets)
-- [Models](#models)
-- [Benchmarks & Evaluation](#benchmarks--evaluation)
+🔹 Human-Annotated Datasets
+- 
 
-
----
-
-## 📊 Datasets
-
-### 🔹 Counseling & Therapy Dialogues
-- CBT multi-session dialogue datasets
-- Synthetic counseling data generated with LLMs
-- Human–AI mixed counseling corpora
-
-### 🔹 Emotion & Mental State
-- Emotion-labeled dialogue datasets
-- Distress, anxiety, and panic-focused datasets
-
-### 🔹 Safety-Critical Scenarios
-- Crisis and self-harm related conversations
-- High-risk user simulation datasets
+🔹 LLM-Synthesized Datasets
 - 
 ---
 
-## 📄 Models
-
-### 🔹 General Counseling & Mental Health
-- *Large Language Models for Mental Health Support: Opportunities and Risks*  
-- *Evaluating Empathy and Helpfulness in LLM-based Counseling Systems*
-
-### 🔹 Cognitive Behavioral Therapy (CBT)
-- *Structured CBT Dialogue Generation with LLMs*
-- *Automatic Thought Detection and Cognitive Restructuring with Language Models*
-
-### 🔹 Acceptance & Commitment Therapy (ACT)
-- *Modeling Psychological Flexibility in Dialogue Agents*
-- *ACT-Inspired Conversational Agents for Distress Regulation*
-
-### 🔹 Motivational Interviewing (MI)
-- *Measuring MI Adherence in AI Counselors*
-- *Resistance-Aware Dialogue Systems*
-
-### 🔹 Psychological First Aid (PFA) & Crisis Support
-- *LLM-based Stabilization for Panic and Acute Distress*
-- *Crisis-Aware Response Generation*
-
-> 📌 *PRs welcome to add missing papers.*
+### 📄 Models
 
 
 
 ---
 
-## 📏 Benchmarks & Evaluation
+### 📏 Benchmarks & Evaluation
 
-### 🔹 Automatic Metrics
-- Empathy / Validation classifiers
-- Strategy classification (CBT / ACT / MI)
-- Harmfulness & safety filters
 
-### 🔹 Human Evaluation
-- Therapist-aligned rubrics (e.g., CTRS, MITI-style scales)
-- Lived-experience user preference studies
-- Session-level outcome measures
-
-### 🔹 LLM-as-a-Judge
-- Preference-based evaluation
-- Stage-wise counseling quality assessment
 
 ---
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions are very welcome!
 
