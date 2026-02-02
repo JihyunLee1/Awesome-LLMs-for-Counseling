@@ -21,10 +21,10 @@ This list focuses on **research-oriented** and **evaluation-driven** work on:
 
 ### 📊 Datasets
 
-🔹 Human-Annotated Datasets
+- 🔹 Human-Annotated Datasets
 - 
 
-🔹 LLM-Synthesized Datasets
+- 🔹 LLM-Synthesized Datasets
 - 
 ---
 
