@@ -22,12 +22,30 @@ This list focuses on **research-oriented** and **evaluation-driven** work on:
 ## 🧭 Table of Contents
 
 - [Datasets](#datasets)
-- [Models](#benchmarks--evaluation)
+- [Models](#models)
 - [Benchmarks & Evaluation](#benchmarks--evaluation)
+
 
 ---
 
-## 📄 Papers
+## 📊 Datasets
+
+### 🔹 Counseling & Therapy Dialogues
+- CBT multi-session dialogue datasets
+- Synthetic counseling data generated with LLMs
+- Human–AI mixed counseling corpora
+
+### 🔹 Emotion & Mental State
+- Emotion-labeled dialogue datasets
+- Distress, anxiety, and panic-focused datasets
+
+### 🔹 Safety-Critical Scenarios
+- Crisis and self-harm related conversations
+- High-risk user simulation datasets
+- 
+---
+
+## 📄 Models
 
 ### 🔹 General Counseling & Mental Health
 - *Large Language Models for Mental Health Support: Opportunities and Risks*  
@@ -51,22 +69,7 @@ This list focuses on **research-oriented** and **evaluation-driven** work on:
 
 > 📌 *PRs welcome to add missing papers.*
 
----
 
-## 📊 Datasets
-
-### 🔹 Counseling & Therapy Dialogues
-- CBT multi-session dialogue datasets
-- Synthetic counseling data generated with LLMs
-- Human–AI mixed counseling corpora
-
-### 🔹 Emotion & Mental State
-- Emotion-labeled dialogue datasets
-- Distress, anxiety, and panic-focused datasets
-
-### 🔹 Safety-Critical Scenarios
-- Crisis and self-harm related conversations
-- High-risk user simulation datasets
 
 ---
 
