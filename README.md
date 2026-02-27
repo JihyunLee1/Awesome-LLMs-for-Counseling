@@ -2,7 +2,6 @@
 *A curated list of papers, datasets, benchmarks, and resources on Large Language Models for counseling, psychotherapy, and mental health support.*
 
 ![Awesome](https://awesome.re/badge.svg)
-![GitHub stars](https://img.shields.io/github/stars/JihyunLee1/Awesome-LLMs-for-Counseling?style=social)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JihyunLee1.Awesome-LLMs-for-Counseling)
 
 
