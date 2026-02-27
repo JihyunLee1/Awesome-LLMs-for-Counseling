@@ -3,7 +3,7 @@
 
 ![Awesome](https://awesome.re/badge.svg)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JihyunLee1.Awesome-LLMs-for-Counseling)
-![GitHub stars](https://img.shields.io/github/stars/JihyunLee1/Awesome-LLMs-for-Counseling?style=social)
+
 
 ## 📌 Scope
 
