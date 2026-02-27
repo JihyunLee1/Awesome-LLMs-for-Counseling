@@ -45,16 +45,15 @@ This repository focuses on **research-oriented and evaluation-driven work** on:
 
 # 🤖 Models & Systems
 
-## 🧠 Therapy-Oriented Dialogue Models
+
 
 * **PanicToCalm: A Proactive Counseling Agent for Panic Attacks** — Jihyun Lee *et al.*, EMNLP 2025. [[paper]](https://aclanthology.org/2025.emnlp-main.XXX)
 * **MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with Resistance** — Subin Kim *et al.*, EMNLP 2025. [[paper]](https://aclanthology.org/2025.emnlp-main.XXX)
 * **PsyLLM: Integrating Diagnostic and Therapeutic Reasoning for Mental Health Counseling** — He Hu *et al.*, arXiv 2025. [[paper]](https://arxiv.org/abs/2503.XXXXX)
 * **ChatCounselor: A Large Language Model for Mental Health Support** — Yongyi Yang *et al.*, arXiv 2023. [[paper]](https://arxiv.org/abs/2309.15461)
 
----
 
-## 🤝 Empathy & Reflective Response Modeling
+
 
 * **Towards Facilitating Empathic Conversations in Online Mental Health Support** — Ashish Sharma *et al.*, The Web Conference 2021. [[paper]](https://dl.acm.org/doi/10.1145/3442381.3449797)
 * **SoulChat: Improving LLMs’ Empathy and Comfort Abilities** — Yaqing Wang *et al.*, EMNLP 2023 (Findings). [[paper]](https://aclanthology.org/2023.findings-emnlp.XXX)
@@ -63,7 +62,7 @@ This repository focuses on **research-oriented and evaluation-driven work** on:
 
 ---
 
-## 🧪 Evaluation & Alignment
+# 🧪 Evaluation & Alignment
 
 * **Do Large Language Models Align with Core Mental Health Counseling Competencies?** — Shuyu Wang *et al.*, NAACL 2025. [[paper]](https://aclanthology.org/2025.naacl-long.XXX)
 * **CounselBench: Expert Evaluation Benchmark for LLM Counseling** — Shuohang Wang *et al.*, arXiv 2025. [[paper]](https://arxiv.org/abs/2501.XXXXX)
