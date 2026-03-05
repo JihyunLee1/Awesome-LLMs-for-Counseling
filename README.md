@@ -22,13 +22,12 @@ This repository focuses on **research-oriented and evaluation-driven work** on:
 
 ## 🧑‍⚕️ Human-Annotated Counseling Data
 
-* **PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support** — Junhui Li *et al.*, ACL-IJCNLP 2021 (Findings). [[paper]](https://aclanthology.org/2021.findings-acl.XXX)
-* **Comparing Panic and Anxiety on a Dataset Collected from Social Media** — Kang Zhang *et al.*, CLPsych 2024. [[paper]](https://aclanthology.org/2024.clpsych-1.XXX)
-* **PsyDial: A Large-Scale Long-Term Conversational Dataset for Mental Health Support** — Huachuan Qiu *et al.*, ACL 2025. [[paper]](https://aclanthology.org/2025.acl-long.XXX)
-* **What Is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Mental-Health Stigma** — Han Meng *et al.*, ACL 2025. [[paper]](https://aclanthology.org/2025.acl-long.XXX)
-* **CLPsych 2025 Shared Task: Capturing Mental Health Dynamics from Social Media Timelines** — Talia Tseriotou *et al.*, CLPsych 2025. [[paper]](https://aclanthology.org/2025.clpsych-1.XXX)
-* **CRADLE BENCH: A Clinician-Annotated Benchmark for Mental Health Crisis and Safety Risk Detection** — Grace Byun *et al.*, arXiv 2025. [[paper]](https://arxiv.org/abs/XXXX.XXXXX)
-
+* **PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support** — Junhui Li *et al.*, ACL-IJCNLP 2021 (Findings). [[paper]](https://aclanthology.org/2021.findings-acl.130/)
+* **Comparing Panic and Anxiety on a Dataset Collected from Social Media** — Kang Zhang *et al.*, CLPsych 2024. [[paper]](https://aclanthology.org/2024.clpsych-1.12/)
+* **PsyDial: A Large-Scale Long-Term Conversational Dataset for Mental Health Support** — Huachuan Qiu *et al.*, ACL 2025. [[paper]](https://aclanthology.org/2025.acl-long.1049/)
+* **What Is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Mental-Health Stigma** — Han Meng *et al.*, ACL 2025. [[paper]](https://aclanthology.org/2025.acl-long.272/)
+* **CLPsych 2025 Shared Task: Capturing Mental Health Dynamics from Social Media Timelines** — Talia Tseriotou *et al.*, CLPsych 2025. [[paper]](https://aclanthology.org/2025.clpsych-1.16/)
+* **CRADLE BENCH: A Clinician-Annotated Benchmark for Mental Health Crisis and Safety Risk Detection** — Grace Byun *et al.*, arXiv 2025. [[paper]](https://arxiv.org/abs/2510.23845)
 ---
 
 ## 🧪 Synthetic & Simulation-Based Data
@@ -94,11 +93,6 @@ Please submit a **Pull Request** or open an **Issue**.
 
 ---
 
-# 📜 License
-
-Released under the **MIT License**.
-
----
 
 # ⭐ Acknowledgment
 
