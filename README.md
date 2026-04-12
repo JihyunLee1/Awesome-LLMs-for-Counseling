@@ -33,16 +33,10 @@ This repository focuses on **research-oriented and evaluation-driven work** on:
 
 # 🤖 Models & Systems
 
-
-
 * **PanicToCalm: A Proactive Counseling Agent for Panic Attacks** — Jihyun Lee *et al.*, EMNLP 2025. [[paper]](https://aclanthology.org/2025.emnlp-main.XXX)
 * **MIRROR: Multimodal Cognitive Reframing Therapy for Rolling with Resistance** — Subin Kim *et al.*, EMNLP 2025. [[paper]](https://aclanthology.org/2025.emnlp-main.XXX)
 * **PsyLLM: Integrating Diagnostic and Therapeutic Reasoning for Mental Health Counseling** — He Hu *et al.*, arXiv 2025. [[paper]](https://arxiv.org/abs/2503.XXXXX)
 * **ChatCounselor: A Large Language Model for Mental Health Support** — Yongyi Yang *et al.*, arXiv 2023. [[paper]](https://arxiv.org/abs/2309.15461)
-
-
-
-
 * **Towards Facilitating Empathic Conversations in Online Mental Health Support** — Ashish Sharma *et al.*, The Web Conference 2021. [[paper]](https://dl.acm.org/doi/10.1145/3442381.3449797)
 * **SoulChat: Improving LLMs’ Empathy and Comfort Abilities** — Yaqing Wang *et al.*, EMNLP 2023 (Findings). [[paper]](https://aclanthology.org/2023.findings-emnlp.XXX)
 * **VERVE: Template-Based Reflective Rewriting for Motivational Interviewing** — Farnoosh Karimi Mahabadi *et al.*, EMNLP 2023 (Findings). [[paper]](https://aclanthology.org/2023.findings-emnlp.XXX)
