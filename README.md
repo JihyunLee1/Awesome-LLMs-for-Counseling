@@ -28,15 +28,6 @@ This repository focuses on **research-oriented and evaluation-driven work** on:
 * **What Is Stigma Attributed to? A Theory-Grounded, Expert-Annotated Interview Corpus for Mental-Health Stigma** — Han Meng *et al.*, ACL 2025. [[paper]](https://aclanthology.org/2025.acl-long.272/)
 * **Overview of the CLPsych 2025 Shared Task: Capturing Mental Health Dynamics from Social Media Timelines** — Talia Tseriotou *et al.*, CLPsych 2025. [[paper]](https://aclanthology.org/2025.clpsych-1.16/)
 * **CRADLE Bench: A Clinician-Annotated Benchmark for Multi-Faceted Mental Health Crisis and Safety Risk Detection** — Grace Byun *et al.*, arXiv 2025. [[paper]](https://arxiv.org/abs/2510.23845)
----
-
-## 🧪 Synthetic & Simulation-Based Data
-
-* **Thousand Voices of Trauma: A Synthetic Dataset for Prolonged Exposure Therapy Conversations** — Suhas BN *et al.*, NeurIPS 2025. [[paper]](https://openreview.net/forum?id=XXXX)
-* **Roleplaying with Structure: Synthetic Therapist–Client Conversation Generation from Questionnaires** — Brendan Davidson *et al.*, arXiv 2025. [[paper]](https://arxiv.org/abs/XXXX.XXXXX)
-* **MentalChat16K: A Benchmark Dataset for Conversational Mental Health Assistance** — Jia Xu *et al.*, arXiv 2025. [[paper]](https://arxiv.org/abs/XXXX.XXXXX)
-* **M-Help: Detecting Mental Health Help-Seeking Signals from Social Media** — Suo Cai *et al.*, EMNLP 2025. [[paper]](https://aclanthology.org/2025.emnlp-main.XXX)
-* **PsyDefConv: Detecting Psychological Defense Mechanisms in Supportive Conversations** — Sunghyun Seo *et al.*, arXiv 2025. [[paper]](https://arxiv.org/abs/XXXX.XXXXX)
 
 ---
 
