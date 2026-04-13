@@ -42,8 +42,10 @@ This repository focuses on **research-oriented and evaluation-driven work** on:
 * **VERVE: Template-Based Reflective Rewriting for Motivational Interviewing** — Farnoosh Karimi Mahabadi *et al.*, EMNLP 2023 (Findings). [[paper]](https://aclanthology.org/2023.findings-emnlp.690/)
 * **Multi-Level Feedback Generation for Empowering Novice Peer Counselors** — Alicja Chaszczewicz *et al.*, ACL 2024. [[paper]](https://aclanthology.org/2024.acl-long.227/)
 
+---
 
-
+# 🍀 HCI
+* **Can LLM-Simulated Practice and Feedback Upskill Human Counselors?** — Emma Brunskill *et al*., CHI 2026. [[paper]](https://arxiv.org/abs/2505.02428)
 
 ---
 
