@@ -49,20 +49,20 @@ This repository focuses on **research-oriented and evaluation-driven work** on:
 
 # 🧪 Evaluation & Alignment
 
-* **Do Large Language Models Align with Core Mental Health Counseling Competencies?** — Shuyu Wang *et al.*, NAACL 2025. [[paper]](https://aclanthology.org/2025.naacl-long.XXX)
-* **CounselBench: Expert Evaluation Benchmark for LLM Counseling** — Shuohang Wang *et al.*, arXiv 2025. [[paper]](https://arxiv.org/abs/2501.XXXXX)
-* **Still Not Quite There! Evaluating LLMs for Comorbid Mental Health Diagnosis** — Christian Weinzierl *et al.*, EMNLP 2024. [[paper]](https://aclanthology.org/2024.emnlp-main.XXX)
-* **Are LLMs Effective Psychological Assessors?** — Federico Ravenda *et al.*, ACL 2025. [[paper]](https://aclanthology.org/2025.acl-long.XXX)
-* **SELF-PERCEPT: Detecting Multi-Person Mental Manipulation** — Danush Khanna *et al.*, ACL 2025. [[paper]](https://aclanthology.org/2025.acl-long.XXX)
+* **Do Large Language Models Align with Core Mental Health Counseling Competencies?** — Shuyu Wang *et al.*, NAACL 2025. [[paper]](https://aclanthology.org/2025.findings-naacl.418/)
+* **CounselBench: Expert Evaluation Benchmark for LLM Counseling** — Shuohang Wang *et al.*, arXiv 2025. [[paper]](https://arxiv.org/abs/2506.08584)
+* **Still Not Quite There! Evaluating LLMs for Comorbid Mental Health Diagnosis** — Christian Weinzierl *et al.*, EMNLP 2024. [[paper]](https://aclanthology.org/2024.emnlp-main.931/)
+* **Are LLMs Effective Psychological Assessors?** — Federico Ravenda *et al.*, ACL 2025. [[paper]](https://aclanthology.org/2025.acl-long.440/)
+* **SELF-PERCEPT: Detecting Multi-Person Mental Manipulation** — Danush Khanna *et al.*, ACL 2025. [[paper]](https://arxiv.org/abs/2505.20679)
 
 ---
 
 ## 🛡 Safety, Ethics & Governance
 
 * **Responsible Evaluation of AI for Mental Health** — H. Arnaout *et al.*, arXiv 2026. [[paper]](https://arxiv.org/abs/2602.00065)
-* **Guardians of Trust: Risks and Opportunities for LLMs in Mental Health** — Miguel Baidal *et al.*, ACL 2025 (Workshop). [[paper]](https://aclanthology.org/2025.nlp4pi-1.XXX)
-* **Real-Time Hyper-Personalized Generative AI and “Digital Heroin” Risks** — Raad Khraishi *et al.*, NeurIPS 2025. [[paper]](https://openreview.net/forum?id=XXXX)
-* **Advancing Conversational Psychotherapy: Privacy and Dual-Memory Systems** — XiuYu Zhang *et al.*, NeurIPS 2024 (Workshop). [[paper]](https://openreview.net/forum?id=XXXX)
+* **Guardians of Trust: Risks and Opportunities for LLMs in Mental Health** — Miguel Baidal *et al.*, ACL 2025 (Workshop). [[paper]](https://aclanthology.org/2025.nlp4pi-1.2/)
+* **Real-Time Hyper-Personalized Generative AI and “Digital Heroin” Risks** — Raad Khraishi *et al.*, NeurIPS 2025. [[paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/121952)
+* **Advancing Conversational Psychotherapy: Privacy and Dual-Memory Systems** — XiuYu Zhang *et al.*, NeurIPS 2024 (Workshop). [[paper]](https://neurips.cc/virtual/2024/105608)
 
 ---
 
