@@ -46,7 +46,7 @@ This repository focuses on **research-oriented and evaluation-driven work** on:
 
 # 🍀 HCI
 * **Can LLM-Simulated Practice and Feedback Upskill Human Counselors?** — Emma Brunskill *et al*., CHI 2026. [[paper]](https://arxiv.org/abs/2505.02428)
-
+* **Bloom: Designing for LLM-Augmented Behavior Change Interactions** — Matthew Jörke *et al*., arXiv 2025. [[paper]](https://arxiv.org/abs/2510.05449)
 ---
 
 # 🧪 Evaluation & Alignment
